@@ -1,2 +1,2 @@
 # scripts_and_bips
-A miscellaneous collection of handy scripts. Beep boop.
+A miscellaneous collection of handy scripts. Beeep boop.
